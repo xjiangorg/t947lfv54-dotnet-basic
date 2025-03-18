@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t947lfv54-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/t947lfv54-dotnet-basic
